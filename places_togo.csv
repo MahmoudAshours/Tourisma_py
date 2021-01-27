@@ -1,0 +1,14 @@
+"ID","PlaceID","Name","Latitude","Longitude","Image","isRestaurant","hasLake","isShopping","Rate"
+"2","20","Port Said Military Museum","30.62077298712324","32.29340890445067","https://media-cdn.tripadvisor.com/media/photo-s/10/4f/4d/5f/flames.jpg","True","False","False",3.0
+"2","21","Salsabila","30.575730380220115","32.287549869925854","https://upload.wikimedia.org/wikipedia/commons/7/74/Ismailia_and_Timsah_lake_-_panoramio.jpg","False","True","False",2.0
+"2","22","Mcdonalds","30.572742470687626","32.27833801125144","https://upload.wikimedia.org/wikipedia/commons/7/74/Ismailia_and_Timsah_lake_-_panoramio.jpg","True","True","False",1.0
+"2",23,"Cook Door","30.568954651554865","32.28074871397333","https://lh5.googleusercontent.com/p/AF1QipOSaEtqOvUpyxx7nHufekoywRerq8UkU3gKYg0J=w500-h240-k-no","True","False","False",3.0
+"2","24","Gianola","30.57044394818246","32.2778962155231","https://lh5.googleusercontent.com/p/AF1QipPvpbD5Oq08HnCY9K1QO2wu4flQGhcYGyjMnFrJ=w408-h408-k-no","True","True","False",2.0
+"2","25","Ghoneim Fish Restaurant","30.608511354468998","32.27466349915819","https://lh5.googleusercontent.com/p/AF1QipPlMO2GXKZFcXp4FPP487sZkwhY5YvC5ml-IDn3=w408-h306-k-no","True","False","False",1.0
+"2","26","AlQamar AlSoury. (Syrian cuisine.)","30.597771392709085","32.271932239644435","https://lh5.googleusercontent.com/p/AF1QipNCf2ekLkUZEa3uwFYqeOugigm-F8lkqjkaSVDf=w408-h680-k-no","True","False","False",1.0
+"2","27","Porto grill","30.586693795677213","32.26312399023664","https://lh5.googleusercontent.com/p/AF1QipO0h9n-GHJCaTBkjdWbvutNw3jd3m5rv8mCWN_F=w408-h864-k-no","True","False","False",5.0
+"2","27","Series Smkatu Seafood Restaurants","30.61341216936083","32.28320712870052","https://lh5.googleusercontent.com/p/AF1QipM0Xq00BlFYH_TiZZLPhQV-UgaNVKVZYjjbqk9v=w426-h240-k-no","True","False","False",2.3
+"2","28","Central Perk","30.56560508079561","32.28164538125417","https://lh5.googleusercontent.com/p/AF1QipMx7xs95Xm9LehzeZQr2D1b2IAZt5Ri9mQaJmSl=w427-h240-k-no","True","False","False",4.0
+"2","29","Festival","30.612405824321836","32.30635470516549","https://lh5.googleusercontent.com/p/AF1QipMXf1ku5zU8a7m6WiPj4I832mDCHm5hbKXD18lx=w408-h306-k-no","True","False","False",6.0
+"2","30","Mondays","30.594069194830563","32.27794840453784","https://lh5.googleusercontent.com/p/AF1QipNRYNS-WREhN_Sa4C8qmDlG-Jd7O0DUP2-DGkdA=w408-h544-k-no","False","False","True",2.0
+"2","31","High Burger","30.6053337402625","32.28513381773866","https://lh5.googleusercontent.com/p/AF1QipOqtoGZrexCDLKqogs9S7cg8swFaFro4jVqEyoz=w408-h508-k-no","False","False","True",5.0
